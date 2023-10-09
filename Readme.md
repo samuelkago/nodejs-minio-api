@@ -93,7 +93,7 @@ For more examples and use cases, please refer to the [official Minio Node.js SDK
 
 ## Contributing
 
-Contributions to this Minio API for Node.js are welcome. If you find issues or have improvements to suggest, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your-minio-api-repo).
+Contributions to this Minio API for Node.js are welcome. If you find issues or have improvements to suggest, please open an issue or submit a pull request on the [GitHub repository](https://github.com/samuelkago/nodejs-minio-api).
 
 ## License
 
